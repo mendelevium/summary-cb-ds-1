@@ -1,29 +1,28 @@
 # Summary-cd-bs-1
 
-This is a summary of the the Data Science Bootcamp from Concordia.
+This is a summary of the the Data Science Bootcamp from Concordia.<br>
 https://concordiabootcamps.ca/courses/data-science-remote/
 
-The jupiter notebooks are summary of useful python code intented as a quick reference.
+The jupyter notebooks are summary of useful python code intented as a quick reference.
 
 ## Table of content
 
-- Python
+- **Python**
     - Data structures
     - Functions
-    - String
+    - Strings
     - Regex
     - Input / Output
     - Classes
     - Numpy
     - Magic commands
-- Algorithms
+- **Algorithms**
     - Sorting
     - Recursion
-    - Knapsack
     - Dynamic Programming
     - Graphs
     - Fast code
-- Pandas
+- **Pandas**
     - Importing
     - Explore
     - Slicing
@@ -34,19 +33,18 @@ The jupiter notebooks are summary of useful python code intented as a quick refe
     - Strings
     - JSON
     - Time series
-- Vizualisation
+- **Visualization**
     - Matplotlib
     - Seaborn
     - Examples
-- Regression
+- **Regression**
     - Simple regression
     - Multiple regressions
     - Matrix form regression
     - Interpretation
-    - OLS assumptions
     - Feature and target engineering
     - Regularisation
-- Classification
+- **Classification**
     - Root finding
     - Optimization
     - Logistic regression
@@ -55,7 +53,7 @@ The jupiter notebooks are summary of useful python code intented as a quick refe
     - Exotic distributions
     - Two stage modeling
     - Survival model
-- SQL
+- **SQL**
     - Connect
     - Query
     - Group by
@@ -63,10 +61,24 @@ The jupiter notebooks are summary of useful python code intented as a quick refe
     - Nested queries
     - Create table
     - Create DB
-- Clustering
+- **Clustering**
     - K-Means
     - Spectral Clustering
     - Image compression
     - Metrics
     - Model evaluation
     - Selecting the number of clusters 
+- **Scraping** (in progress)
+    - API requests
+- **NLP**
+    - Tokenisation
+    - Stemming
+    - Lemmatization
+    - Stop Words
+    - Matching
+    - Name Entity Regognition
+    - Features extraction
+    - Word Vectors
+    - Sentiment Analysis
+    - Topic Modeling (LDA, NMF)
+    - Summarization
