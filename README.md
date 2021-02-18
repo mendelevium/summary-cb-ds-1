@@ -68,8 +68,16 @@ The jupyter notebooks are summary of useful python code intented as a quick refe
     - Metrics
     - Model evaluation
     - Selecting the number of clusters 
-- **Scraping** (in progress)
+- **MapReduce** (in progress)
+    - Map Reduce
+    - PySpark
+    - Dask
+- **Scraping**
     - API requests
+    - BeautifulSoup
+- **Dimentionality Reduction** (in progress)
+    - PCA
+    - SMV
 - **NLP**
     - Tokenisation
     - Stemming
@@ -82,3 +90,22 @@ The jupyter notebooks are summary of useful python code intented as a quick refe
     - Sentiment Analysis
     - Topic Modeling (LDA, NMF)
     - Summarization
+- **Network and Geo data** (to come)
+    - Graph QL?
+- **Predictive Modeling** (to come)
+    - ?
+- **ML Models** (to come)
+    - Decision Tree
+    - Boosting
+- **Deep Learning** (to come)
+    - ConvNets
+    - Reinforcement Learning
+- **Time Series** (to come)
+    - Sequence Modeling
+    - Forecasting
+- **Panel Data** (to come)
+    - ?
+- **Model Deployment** (to come)
+    - ?
+- **Causal Inference** (optionnal)
+    - ?
