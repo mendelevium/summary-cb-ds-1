@@ -68,16 +68,12 @@ The jupyter notebooks are summary of useful python code intented as a quick refe
     - Metrics
     - Model evaluation
     - Selecting the number of clusters 
-- **MapReduce** (in progress)
-    - Map Reduce
-    - PySpark
-    - Dask
 - **Scraping**
     - API requests
     - BeautifulSoup
-- **Dimentionality Reduction** (in progress)
+- **Dimentionality Reduction (Embedding)**
     - PCA
-    - SMV
+    - UMAP
 - **NLP**
     - Tokenisation
     - Stemming
@@ -109,3 +105,10 @@ The jupyter notebooks are summary of useful python code intented as a quick refe
     - ?
 - **Causal Inference** (optionnal)
     - ?
+- **ML Tools**
+    - Scaling, Normalizing
+    - Polynomial features
+    - Test split
+    - Cross Validation
+    - Grid Search
+    - Regularization
