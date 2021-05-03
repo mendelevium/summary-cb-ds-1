@@ -1,9 +1,9 @@
 # Summary-cd-bs-1
 
-This is a summary of the the Data Science Bootcamp from Concordia.<br>
+This is a summary of the the Data Science Diploma from Concordia.<br>
 https://concordiabootcamps.ca/courses/data-science-remote/
 
-The jupyter notebooks are summary of useful python code intented as a quick reference.
+The jupyter notebooks are a mix of theory and useful python code intented to be used as a quick reference.
 
 ## Table of content
 
@@ -71,9 +71,11 @@ The jupyter notebooks are summary of useful python code intented as a quick refe
 - **Scraping**
     - API requests
     - BeautifulSoup
-- **Dimentionality Reduction (Embedding)**
+    - Selenium (to come)
+- **Dimentionality Reduction (Embeddings)**
     - PCA
     - UMAP
+    - T-SNE, MDA, etc.
 - **NLP**
     - Tokenisation
     - Stemming
@@ -82,33 +84,43 @@ The jupyter notebooks are summary of useful python code intented as a quick refe
     - Matching
     - Name Entity Regognition
     - Features extraction
-    - Word Vectors
+    - Word Vectors (embeddings)
     - Sentiment Analysis
     - Topic Modeling (LDA, NMF)
     - Summarization
-- **Network and Geo data** (to come)
-    - Graph QL?
-- **Predictive Modeling** (to come)
-    - ?
-- **ML Models** (to come)
+- **ML Models**
+    - SVM
     - Decision Tree
-    - Boosting
-- **Deep Learning** (to come)
-    - ConvNets
-    - Reinforcement Learning
-- **Time Series** (to come)
-    - Sequence Modeling
-    - Forecasting
-- **Panel Data** (to come)
-    - ?
+    - Gradient Boosting
+    - Shapley
+- **Deep Learning**
+    - FFNN
+    - CNN
+    - RNN: GRU, LSTM 
+    - RL: GAN
+- **Time Series**
+    - ARIMA models
+    - VAR models
+    - Panels
 - **Model Deployment** (to come)
-    - ?
-- **Causal Inference** (optionnal)
-    - ?
+    - AWS
+    - GCP
+- **Recommender System** (to come)
+    - Collaborative Filtering
+    - Content-based Filtering
+    - Hybrid
 - **ML Tools**
     - Scaling, Normalizing
     - Polynomial features
     - Test split
     - Cross Validation
     - Grid Search
-    - Regularization
+    - Pipeline
+- **Boilerplate** (to come)
+    - SKLearn
+    - TensorFlow (Keras)
+    - PyTorch 
+- **Other** (to come)
+    - Computer Vision
+    - Naive Baye? (Classifier)
+    - Markov's chain? (NN)
