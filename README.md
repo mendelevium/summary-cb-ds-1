@@ -71,7 +71,7 @@ The jupyter notebooks are a mix of theory and useful python code intented to be 
 - **Scraping**
     - API requests
     - BeautifulSoup
-    - Selenium (to come)
+    - Selenium
 - **Dimentionality Reduction (Embeddings)**
     - PCA
     - UMAP
@@ -102,13 +102,9 @@ The jupyter notebooks are a mix of theory and useful python code intented to be 
     - ARIMA models
     - VAR models
     - Panels
-- **Model Deployment** (to come)
+- **Model Deployment**
     - AWS
     - GCP
-- **Recommender System** (to come)
-    - Collaborative Filtering
-    - Content-based Filtering
-    - Hybrid
 - **ML Tools**
     - Scaling, Normalizing
     - Polynomial features
@@ -120,6 +116,10 @@ The jupyter notebooks are a mix of theory and useful python code intented to be 
     - SKLearn
     - TensorFlow (Keras)
     - PyTorch 
+- **Recommender System** (to come)
+    - Collaborative Filtering
+    - Content-based Filtering
+    - Hybrid
 - **Other** (to come)
     - Computer Vision
     - Naive Baye? (Classifier)
